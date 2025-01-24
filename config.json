@@ -29,16 +29,13 @@
         },
         {
             "src": {
-                "webp": "https://ae01.alicdn.com/kf/He6966ea062484b08ab8899ad1fab5df6i.jpg",
-                "legacy": "https://ae01.alicdn.com/kf/H13ba74f522114a68b1ff325299a2d04bl.png"
+                "legacy": "avatar-frame/avatar2.png"
             },
             "preview": {
-                "webp": "https://ae01.alicdn.com/kf/Hfd193d29de3e408d818e36f6e444a389M.jpg",
-                "legacy": "https://ae01.alicdn.com/kf/Hb9575de775a74941a67eafd2713df712B.png"
+                "legacy": "avatar-frame/avatar2.png"
             },
             "example": {
-                "webp": "https://ae01.alicdn.com/kf/Hd5dba3cd06a54009b4bff51588dc224dX.jpg",
-                "legacy": "https://ae01.alicdn.com/kf/H5ed8b457f5e046089844c528568669b61.jpg"
+                "legacy": "avatar-frame/avatar2.png"
             }
         }
     ]
