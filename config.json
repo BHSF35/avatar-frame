@@ -7,15 +7,12 @@
     "templates": [
         {
             "src": {
-                "webp": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png",
                 "legacy": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png"
             },
             "preview": {
-                "webp": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png",
                 "legacy": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png"
             },
             "example": {
-                "webp": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png",
                 "legacy": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png"
             }
         },
