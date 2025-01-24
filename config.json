@@ -59,6 +59,17 @@
             "example": {
                 "legacy": "https://s2.loli.net/2025/01/24/XnyWbLuJYjp21rR.png"
             }
+        },
+        {
+            "src": {
+                "legacy": "https://s2.loli.net/2025/01/24/e2iUXQDHTsfrSxM.png"
+            },
+            "preview": {
+                "legacy": "https://s2.loli.net/2025/01/24/e2iUXQDHTsfrSxM.png"
+            },
+            "example": {
+                "legacy": "https://s2.loli.net/2025/01/24/e2iUXQDHTsfrSxM.png"
+            }
         }
     ]
 }
