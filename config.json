@@ -7,16 +7,16 @@
     "templates": [
         {
             "src": {
-                "webp": "",
-                "legacy": "https://sm.ms/image/CKyfuSElHB9bkZe"
+                "webp": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png",
+                "legacy": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png"
             },
             "preview": {
-                "webp": "https://sm.ms/image/PVyCQnqF98mZvjL",
-                "legacy": "https://sm.ms/image/PVyCQnqF98mZvjL"
+                "webp": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png",
+                "legacy": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png"
             },
             "example": {
-                "webp": "https://sm.ms/image/PVyCQnqF98mZvjL",
-                "legacy": "https://sm.ms/image/PVyCQnqF98mZvjL"
+                "webp": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png",
+                "legacy": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png"
             }
         },
         {
