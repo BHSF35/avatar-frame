@@ -86,11 +86,7 @@ const setUploadedImage = src =>
  */
 const setTemplateCurrent = template => {
     templateCurrent = template;
-    if (supportWebP && templateCurrent.preview.webp) {
-        previewTemplate.src = templateCurrent.preview.webp;
-    } else {
-        previewTemplate.src = templateCurrent.preview.legacy;
-    }
+    previewTemplate.src = templateCurrent.preview.legacy;
 };
 
 retryButton.onclick = () => setResult(false);
