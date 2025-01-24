@@ -37,6 +37,28 @@
             "example": {
                 "legacy": "https://s2.loli.net/2025/01/24/bOTwoRV38AukDWl.png"
             }
+        },
+        {
+            "src": {
+                "legacy": "https://s2.loli.net/2025/01/24/sjy9dbTES6a84DK.png"
+            },
+            "preview": {
+                "legacy": "https://s2.loli.net/2025/01/24/sjy9dbTES6a84DK.png"
+            },
+            "example": {
+                "legacy": "https://s2.loli.net/2025/01/24/sjy9dbTES6a84DK.png"
+            }
+        },
+        {
+            "src": {
+                "legacy": "https://s2.loli.net/2025/01/24/XnyWbLuJYjp21rR.png"
+            },
+            "preview": {
+                "legacy": "https://s2.loli.net/2025/01/24/XnyWbLuJYjp21rR.png"
+            },
+            "example": {
+                "legacy": "https://s2.loli.net/2025/01/24/XnyWbLuJYjp21rR.png"
+            }
         }
     ]
 }
