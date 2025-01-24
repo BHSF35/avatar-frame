@@ -37,18 +37,6 @@
             "example": {
                 "legacy": "avatar-frame/avatar2.png"
             }
-        },
-        {
-            "src": {
-                "legacy": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png"
-            },
-            "preview": {
-                "legacy": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png"
-            },
-            "example": {
-                "legacy": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png"
-            }
         }
-        
     ]
 }
