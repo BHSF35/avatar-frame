@@ -40,3 +40,16 @@
     ]
 }
 ```
+
+## 部署到 GitHub Pages
+
+本仓库已配置 GitHub Actions 自动部署工作流。要启用 GitHub Pages：
+
+1. 进入仓库的 Settings（设置）页面
+2. 在左侧菜单中找到 Pages（页面）选项
+3. 在 "Build and deployment" 部分：
+   - Source（源）选择 "GitHub Actions"
+4. 将此分支合并到 `master` 分支后，工作流会自动运行并部署网站
+5. 部署完成后，你的网站将在 `https://<你的用户名>.github.io/<仓库名>/` 可访问
+
+工作流会在每次推送到 `master` 分支时自动运行，也可以在 Actions 标签页手动触发。
