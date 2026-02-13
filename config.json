@@ -1,74 +1,74 @@
 {
     "avatarSize": 800,
     "initialImage": {
-        "webp": "https://ae01.alicdn.com/kf/Ha99b7df48097484b90d7420566942d5bx.jpg",
-        "legacy": "https://ae01.alicdn.com/kf/Hed78e27fcc7b49319e7ad7ff00972a3dU.png"
+        "webp": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093933_8_232.jpg",
+        "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093933_8_232.jpg"
     },
     "templates": [
         {
             "src": {
-                "legacy": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093933_8_232.jpg"
             },
             "preview": {
-                "legacy": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093933_8_232.jpg"
             },
             "example": {
-                "legacy": "https://s2.loli.net/2025/01/24/CKyfuSElHB9bkZe.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093933_8_232.jpg"
             }
         },
         {
             "src": {
-                "legacy": "https://s2.loli.net/2025/01/24/PVyCQnqF98mZvjL.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093945_9_232.jpg"
             },
             "preview": {
-                "legacy": "https://s2.loli.net/2025/01/24/PVyCQnqF98mZvjL.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093945_9_232.jpg"
             },
             "example": {
-                "legacy": "https://s2.loli.net/2025/01/24/PVyCQnqF98mZvjL.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093945_9_232.jpg"
             }
         },
         {
             "src": {
-                "legacy": "https://s2.loli.net/2025/01/24/bOTwoRV38AukDWl.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093950_10_232.jpg"
             },
             "preview": {
-                "legacy": "https://s2.loli.net/2025/01/24/bOTwoRV38AukDWl.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093950_10_232.jpg"
             },
             "example": {
-                "legacy": "https://s2.loli.net/2025/01/24/bOTwoRV38AukDWl.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093950_10_232.jpg"
             }
         },
         {
             "src": {
-                "legacy": "https://s2.loli.net/2025/01/24/sjy9dbTES6a84DK.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093959_11_232.jpg"
             },
             "preview": {
-                "legacy": "https://s2.loli.net/2025/01/24/sjy9dbTES6a84DK.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093959_11_232.jpg"
             },
             "example": {
-                "legacy": "https://s2.loli.net/2025/01/24/sjy9dbTES6a84DK.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213093959_11_232.jpg"
             }
         },
         {
             "src": {
-                "legacy": "https://s2.loli.net/2025/01/24/XnyWbLuJYjp21rR.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213094001_12_232.jpg"
             },
             "preview": {
-                "legacy": "https://s2.loli.net/2025/01/24/XnyWbLuJYjp21rR.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213094001_12_232.jpg"
             },
             "example": {
-                "legacy": "https://s2.loli.net/2025/01/24/XnyWbLuJYjp21rR.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213094001_12_232.jpg"
             }
         },
         {
             "src": {
-                "legacy": "https://s2.loli.net/2025/01/24/e2iUXQDHTsfrSxM.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213094003_13_232.jpg"
             },
             "preview": {
-                "legacy": "https://s2.loli.net/2025/01/24/e2iUXQDHTsfrSxM.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213094003_13_232.jpg"
             },
             "example": {
-                "legacy": "https://s2.loli.net/2025/01/24/e2iUXQDHTsfrSxM.png"
+                "legacy": "https://raw.githubusercontent.com/BHSF35/avatar-frame/master/微信图片_20260213094003_13_232.jpg"
             }
         }
     ]
